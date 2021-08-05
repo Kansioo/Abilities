@@ -1,0 +1,5 @@
+name: ability
+main: me.kansio.abilities.AbilityPlugin
+version: 1.0-SNAPSHOT
+depend:
+  - Proton
